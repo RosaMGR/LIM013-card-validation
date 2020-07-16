@@ -1,5 +1,10 @@
 # Tarjeta de crédito válida
 
+## Modificaciones
+- git add .
+- git commit -m "Quecambio es"
+- git push origin masteer
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
